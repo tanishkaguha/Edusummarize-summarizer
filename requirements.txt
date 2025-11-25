@@ -1,0 +1,12 @@
+transformers
+datasets
+torch
+evaluate
+rouge-score
+fastapi
+uvicorn
+python-multipart
+sentencepiece
+huggingface_hub
+numpy
+pandas
